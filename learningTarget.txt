@@ -1,0 +1,16 @@
+Client Side
+1. HTML5/CSS3
+2. Git
+3. Javascript
+4. BootStrap
+5. Typescript
+6. Angular - AngularJS/ Angular
+7. ExtJs
+8. RactJs
+
+Server Side
+1. Php
+2. NodeJs
+3. Build processes and tools
+
+
