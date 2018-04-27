@@ -13,4 +13,33 @@ Server Side
 2. NodeJs
 3. Build processes and tools
 
+============UK === REQ SKILLS
+Technologies we use in the team include:
 
+• Perl (and mod_perl)
+• Apache
+• Linux
+• Postgres
+• RabbitMQ
+• Memcached
+• Docker
+• Federated authentication (OIDC, ADFS, Shibboleth, etc)
+• REST APIs
+• Git version control
+
+Requirements
+Required Skills:
+
+• SQL (any flavour)
+• Perl or similar (C, C++, Java, C#, etc)
+• Rational Databases
+• An interest in learning new technologies and languages.
+
+
+
+Desired Skills:
+
+• OO Perl
+• JavaScript (JQuery, JSON, AJAX)
+• Git Version Control
+• Unit testing
