@@ -1,3 +1,10 @@
+Current Plan by sequence -------------
+Extjs 4.0 
+Extjs upgrade to 5.0 and 6.0
+Core Java by udemy course
+
+
+Bucket List --------------------
 Client Side
 1. HTML5/CSS3
 2. Git
