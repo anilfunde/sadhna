@@ -19,34 +19,53 @@ Server Side
 1. Php
 2. NodeJs
 3. Build processes and tools
+============
 
-============UK === REQ SKILLS
-Technologies we use in the team include:
+***DevOps
 
-• Perl (and mod_perl)
-• Apache
-• Linux
-• Postgres
-• RabbitMQ
-• Memcached
-• Docker
-• Federated authentication (OIDC, ADFS, Shibboleth, etc)
-• REST APIs
-• Git version control
+**Introduction to DevOps
+What is DevOps?
+Why DevOps is needed?
+An Insight into DevOps Roles
+The Different Perspectives of Dev and Ops
+Conflictual State in DevOps and its Solution
+What is DevOps Transition?
+Various Cultural Impediments
+Infrastructure Layouts
+Infrastructure Challenges
+Understanding Scalability
+Understanding Availability
+Defining Networking Concepts
+ 
 
-Requirements
-Required Skills:
+ 
 
-• SQL (any flavour)
-• Perl or similar (C, C++, Java, C#, etc)
-• Rational Databases
-• An interest in learning new technologies and languages.
+ 
 
+**Infrastructure Configuration and Optimization
+Web Servers
+DNS Server and its Installation
+Configuration of DNS
+DNS Tuning
+Other Web Servers: Apache and Ngnix
+Similarities and Differences between Apache and Ngnix
+How to Configure Apache and Ngnix?
+How to carry out Load Balancing?
+Load Balancing and HA Proxy
+Automated Installations and Deployments
+Installing Linux Servers
+PXE boot and Kick Start Method
+How to Configure SVN and GIT?
+Installation of Jenkins
+Puppet Installation and Configurations
+ 
 
+ 
 
-Desired Skills:
-
-• OO Perl
-• JavaScript (JQuery, JSON, AJAX)
-• Git Version Control
-• Unit testing
+**Tuning Concepts
+What are Tuning Concepts?
+Understanding Disk Schedulers
+Network Tuning Partners
+Security for Infrastructure
+Operating System and Security
+Security at Network Level
