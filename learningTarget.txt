@@ -1,6 +1,9 @@
 Current Plan by sequence -------------
 Extjs 4.0 
 Extjs upgrade to 5.0 and 6.0
+Git
+SQL/DB
+Angular
 Core Java by udemy course
 
 
